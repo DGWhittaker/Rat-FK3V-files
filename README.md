@@ -10,5 +10,5 @@ If you publish any work based on the contents of this repository please cite:
 
 Whittaker, D. G., Benson, A. P., Teh, I., Schneider, J. E., Colman, M. A.
 (2019).
-[Investigation of the role of myocyte orientations in cardiac arrhythmias using image-based models](https://doi.org/10.1016/j.bpj.2019.09.041).
-_Biophysical Journal_, 117, 1-13:(in press).
+[Investigation of the role of myocyte orientations in cardiac arrhythmia using image-based models](https://doi.org/10.1016/j.bpj.2019.09.041).
+_Biophysical Journal_, 117, 1-13 (in press).
