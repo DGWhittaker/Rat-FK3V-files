@@ -3,10 +3,10 @@ Fenton Karma Rat Model by Dominic Whittaker
 
 Please cite the following if the code is used:
 
-Role of Cardiac Microstructure Variability on Ventricular Arrhythmogenesis
-D.G. Whittaker, A.P. Benson, I Teh, J.E. Schneider, M.A. Colman
-2018 Computing in Cardiology Conference
-DOI: 10.22489/CinC.2018.131
+Investigation of the role of myocyte orientations in cardiac arrhythmia using image-based models
+Whittaker, D. G., Benson, A. P., Teh, I., Schneider, J. E., Colman, M. A.
+Biophysical Journal (2019), 117, 1-13 (in press).
+https://doi.org/10.1016/j.bpj.2019.09.041
 ******************************************************************************/
 #include <math.h>
 #include <stdio.h>
