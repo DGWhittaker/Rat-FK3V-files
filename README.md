@@ -4,7 +4,7 @@ This repository consists of two folders:
 <img src="https://github.com/DGWhittaker/Rat-FK3V-files/blob/master/FK3V/FK3V-fig.png">
 
 * [Geometry-files](https://github.com/DGWhittaker/Rat-FK3V-files/tree/master/Geometry-files) contains 3D DTI-based geometry and myocyte orientation files in .txt format and a .vtk format geometry file; alpha and theta are rule-based implementations, whereas MH1, MH3, MH5 correspond to DTI1, DTI2, DTI3, respectively. An example figure showing myocyte orientation streamlines in a wedge is provided:
-<img src="https://github.com/DGWhittaker/Rat-FK3V-files/blob/master/Geometry-files/streamlines-wedge.png" height="500">
+<img src="https://github.com/DGWhittaker/Rat-FK3V-files/blob/master/Geometry-files/streamlines-wedge.png" height="400">
 
 * [Videos](https://github.com/DGWhittaker/Rat-FK3V-files/tree/master/Videos) contains supplementary videos from the paper
 
