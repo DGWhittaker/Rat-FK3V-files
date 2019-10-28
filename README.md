@@ -1,5 +1,5 @@
 # Rat-FK3V-files
-This repository consists of two folders:
+This repository consists of three folders:
 * [FK3V](https://github.com/DGWhittaker/Rat-FK3V-files/tree/master/FK3V) contains C code implementing a modified Fenton-Karma model which reproduces rat ventricular APD, along with matplotlib script to compare APD restitution with experimental data:
 <img src="https://github.com/DGWhittaker/Rat-FK3V-files/blob/master/FK3V/FK3V-fig.png">
 
